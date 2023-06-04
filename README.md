@@ -1,6 +1,6 @@
 # Amiga Development Tests
 
-Samples and code for the Amiga 500. Using:
+Samples and codes for the Amiga 500. Using:
 - 68000 ASM
 - Amiga Assembly VSCode extension
 - VASM ASM cross-compiler
